@@ -34,6 +34,7 @@
         "async": "*",
         "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
         "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
+	"bitgo-utxo-lib" : "https://github.com/DeckerSU/bitgo-utxo-lib",
         "promise": "*"
     },
     "engines": {
