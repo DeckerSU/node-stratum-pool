@@ -33,8 +33,7 @@
         "base58-native": "*",
         "async": "*",
         "merkle-bitcoin": "git+https://github.com/DeckerSU/merkle-bitcoin.git",
-        "bitcoinjs-lib-zcash": "git+https://github.com/DeckerSU/bitcoinjs-lib-zcash.git#zcash",
-	"bitgo-utxo-lib" : "https://github.com/DeckerSU/bitgo-utxo-lib",
+	"bitgo-utxo-lib" : "git+https://github.com/DeckerSU/bitgo-utxo-lib.git",
         "promise": "*"
     },
     "engines": {
